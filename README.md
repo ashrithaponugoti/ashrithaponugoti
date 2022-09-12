@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am currently pursuing Masters in Applied Computer Science course in Northwest Missouri State University.I have one year experience as Application Development Associate in Accenture Solutions pvt.ltd.During my bachelors,I did many certifications related to programming languages.
-Hosted at
-<br><https://github.com/44-563-Web-Apps-F22/44563-webapps-assignment-3-ashrithaponugoti/settings/pages>
